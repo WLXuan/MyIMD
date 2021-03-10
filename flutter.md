@@ -60,11 +60,11 @@ https://flutter.dev/docs/get-started/install
 
 | Name | Logo |
 | ----------- | ----------- |
-| Google | <img src="https://flutter.dev/assets/homepage/garden-logos-color/google-5c9ef2841dda5d0247e53d56a91a70a1b961a08f1d2f0898d14441c3bc943586.png" style="transform:scale(0.5)"/>  |
-| Ebay | ![Ebay](https://flutter.dev/assets/homepage/garden-logos-color/ebay-f4a49fe64c5b6aedae0e8569f73e9162ae874c9d273464e5047cee3eb9388cff.png) |
-| BMW | <img src="https://flutter.dev/assets/homepage/garden-logos-color/bmw-e4981c2b2e2232677ae21defd00772860216b16e5c1e3fd96feb000e4f661f0c.jpg" width = "100" height = "100"  /> |
-| Square | ![Square](https://flutter.dev/assets/homepage/garden-logos-color/square-1ad0f8048aac312d74648ce0bdc3b1bfd35725d8aa03822d5142e0eeec0353e7.png) |
+| Google | <img src="https://flutter.dev/assets/homepage/garden-logos-color/google-5c9ef2841dda5d0247e53d56a91a70a1b961a08f1d2f0898d14441c3bc943586.png" width = "200" height = "68"/>  |
+| Ebay | <img src="https://flutter.dev/assets/homepage/garden-logos-color/ebay-f4a49fe64c5b6aedae0e8569f73e9162ae874c9d273464e5047cee3eb9388cff.png" width = "209" height = "84" /> |
+| BMW | <img src="https://flutter.dev/assets/homepage/garden-logos-color/bmw-e4981c2b2e2232677ae21defd00772860216b16e5c1e3fd96feb000e4f661f0c.jpg" width = "223" height = "111"  /> |
+| Square | <img src="https://flutter.dev/assets/homepage/garden-logos-color/square-1ad0f8048aac312d74648ce0bdc3b1bfd35725d8aa03822d5142e0eeec0353e7.png" width = "200" height = "112"  /> |
 | Alibaba | <img src="https://flutter.dev/assets/homepage/garden-logos-color/alibaba-97b7139685585cb9201f2b7b52bbef9f5b5df33349dd374738fad86a99a2ef01.png" width = "192" height = "108"  /> |
-| CapitalOne | ![Square](https://flutter.dev/assets/homepage/garden-logos-color/capital-one-30b02ad6d4e45ddfc4401498f12e40d8575c06eb2a0109d62cd4ab55386af0d3.png) |
+| CapitalOne | <img src="https://flutter.dev/assets/homepage/garden-logos-color/capital-one-30b02ad6d4e45ddfc4401498f12e40d8575c06eb2a0109d62cd4ab55386af0d3.png" width = "200" height = "112"  />  |
 
 
