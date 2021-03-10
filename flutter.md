@@ -72,4 +72,4 @@ https://flutter.dev/docs/get-started/install
 | Alibaba | ![ALBB](https://flutter.dev/assets/homepage/garden-logos-color/alibaba-97b7139685585cb9201f2b7b52bbef9f5b5df33349dd374738fad86a99a2ef01.png) |
 | CapitalOne | ![Square](https://flutter.dev/assets/homepage/garden-logos-color/capital-one-30b02ad6d4e45ddfc4401498f12e40d8575c06eb2a0109d62cd4ab55386af0d3.png) |
 
-
+<img src="https://flutter.dev/assets/homepage/garden-logos-color/bmw-e4981c2b2e2232677ae21defd00772860216b16e5c1e3fd96feb000e4f661f0c.jpg" width = "300" height = "200" alt="图片名称" align=center />
